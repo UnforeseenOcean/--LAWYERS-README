@@ -35,3 +35,12 @@ Attempt to use DMCA notice to silence me is not permitted and will be appealed i
 You can find the contact info on my GitHub page, https://unforeseenocean.github.io
 
 Use subject line "DMCA Notice".
+
+# Good examples
+- To be updated
+
+# Offenders list
+(AKA: Hall of Shame)
+- N\*\*\*\* Europe (developer of a popular MMORPG game B\*\*\*\* \*\*\*\*\*\*)
+- Net\*\*\*\*\*\*
+- Pe\*\*\* \*\*\*\*\*

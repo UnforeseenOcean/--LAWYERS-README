@@ -47,3 +47,6 @@ Use subject line "DMCA Notice".
 - Te\*\*\*\*\*\*\* (measurement instrument manufacturer)
 - C\*\*\*\* (electronics manufacturer)
 - Act\*\*\*\*\*\*\* B\*\*\*\*\*\*\*
+
+# Closing words
+**If you are so bad at reading and if you are willing to risk someone's future career over a dispute they're willing to resolve peacefully, you should be ashamed of yourself.** Please. Just let me know what is bothering you, and I will do what I can. It isn't hard. You probably wouldn't find someone who's so willing to resolve the dispute this actively, so please just send that notice to **ME** instead of GitHub and I will get back in touch with you.

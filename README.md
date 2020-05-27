@@ -44,3 +44,5 @@ Use subject line "DMCA Notice".
 - N\*\*\*\* Europe (developer of a popular MMORPG game B\*\*\*\* \*\*\*\*\*\*)
 - Net\*\*\*\*\*\*
 - Pe\*\*\* \*\*\*\*\*
+- Te\*\*\*\*\*\*\* (measurement instrument manufacturer)
+- C\*\*\*\* (electronics manufacturer)

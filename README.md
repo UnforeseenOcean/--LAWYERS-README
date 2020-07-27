@@ -1,11 +1,17 @@
 # IF YOU HAVE PROBLEM WITH MY STUFF CONTACT ME DIRECTLY
-GITHUB'S DMCA NOTICE SYSTEM IS BAD and you're endangering my future careers by sending DMCA takedown notices, which will stack up until my account is terminated.
+Dear lawyers and any departments planning to file a DMCA claims, please read this document thoroughly before doing so.
 
-It does not warn me if the entire repository is included in the takedown notice. It's bad.
-
-I'M MORE THAN HAPPY TO COMPLY WITH YOUR REMOVAL REQUESTS. 
-
-PLEASE DON'T MAKE IT HARD FOR ALL OF US. PLEASE.
+If you want a tl;dr:
+- Any and all DMCA notices should be sent to `torbjornl76+dmca@gmail.com`
+- Any and all DMCA notices should be sent to `torbjornl76+dmca@gmail.com`
+- Any and all DMCA notices should be sent to `torbjornl76+dmca@gmail.com`
+- Any and all DMCA notices should be sent to `torbjornl76+dmca@gmail.com`
+- Any and all DMCA notices should be sent to `torbjornl76+dmca@gmail.com`
+- Any and all DMCA notices should be sent to `torbjornl76+dmca@gmail.com`
+- Any and all DMCA notices should be sent to `torbjornl76+dmca@gmail.com`
+- Any and all DMCA notices should be sent to `torbjornl76+dmca@gmail.com`
+- Any and all DMCA notices should be sent to `torbjornl76+dmca@gmail.com`
+- Any and all DMCA notices should be sent to `torbjornl76+dmca@gmail.com`
 
 ## lawyers.txt
 Please do a more thorough search before sending DMCA takedown notices, especially look at my profile first.
@@ -18,23 +24,21 @@ I know you want to finish your task fast, but I'm human. I make mistakes. I want
 
 If you contact me first, I'll do what you or your client want me to do (removal of said content and/or the entire repository if applicable) and both you, your client and I will be happy, no drama.
 
-Don't make my life even more miserable by not contacting me, please? It's as easy as sending that notice to me instead of GitHub.
-
 Hell, you don't even have to format it or anything. Just send me a link to the file(s) you want me to remove and a proof that you own the said content. Just be nice, no need to throw temper tantrum.
 
 Proof includes, but is not limited to:
 - Your portfolio or website (in case of copyrighted works)
 - Your company's website (in case of copyrighted codes)
-- Legal documents (case files included)
+- Legal documents (case files included, if required)
 - Your code on other platform posted **before** the notice (in case of plagiarism or stolen codes, codes posted **after** the notice cannot be verified thus will be ignored. Minimum 5 days prior to notice)
-- Research papers
+- Research papers (in case of stolen publications or unauthorized copy of research papers)
 - ISBN number or Amazon/Google Books page link (in case of stolen publications, such as e-books)
 
 Attempt to use DMCA notice to silence me is not permitted and will be appealed immediately upon discovery.
 
-You can find the contact info on my GitHub page, https://unforeseenocean.github.io
+Any and all DMCA notices should be sent to `torbjornl76+dmca@gmail.com`.
 
-Use subject line "DMCA Notice".
+Use subject line "DMCA notice".
 
 # Good examples
 - To be updated
@@ -49,4 +53,4 @@ Use subject line "DMCA Notice".
 - Act\*\*\*\*\*\*\* B\*\*\*\*\*\*\*
 
 # Closing words
-**If you are so bad at reading and if you are willing to risk someone's future career over a dispute they're willing to resolve peacefully, you should be ashamed of yourself.** Please. Just let me know what is bothering you, and I will do what I can. It isn't hard. You probably wouldn't find someone who's so willing to resolve the dispute this actively, so please just send that notice to **ME** instead of GitHub and I will get back in touch with you.
+**If you are so bad at reading and if you are willing to risk someone's future career over a dispute they're willing to resolve peacefully, you should be ashamed of yourself.** Please. Just let me know what is bothering you or your client, and I will do what I can. It isn't hard.
